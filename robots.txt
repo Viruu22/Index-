@@ -1,0 +1,3 @@
+Sitemap: https://viruu22.github.io/Calculator-/sitemap.xml
+User-agent: *
+Disallow:
